@@ -1,0 +1,19 @@
+When to use which sorting algorithm
+
+Insertion Sort
+With few data or when data is mostly sorted
+
+Bubble Sort 
+Never gonna use it just for educational purpose
+
+Selection Sort 
+Never Gonna use it Just for educational purpose
+
+Merge Sort 
+Use when when worried about first case
+Maybe for  process outside memory
+
+Quick Sort
+Better than merge sort sme time complexity but better space complexity
+but if you are worried about worsst case then use something else
+

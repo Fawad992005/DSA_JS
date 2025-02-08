@@ -1,0 +1,15 @@
+Breadt Fist Seacrh
+Time Complexity O(n)
+Very good for finding the shortest path
+If you have Addtional info about the target node that it is on the upper level of tree than BFS is better
+
+
+It requires more memory then DFS
+
+
+Depth First Search 
+Time  Complexity O(n)
+If you have Addtional info about the target node that it is on the lower level of tree than DFS is better
+Requires less memory than BFS
+It can get slow if tree or graph are very deep and it is not good at finding the shortest path
+Good for finding if a path exists between two nodes

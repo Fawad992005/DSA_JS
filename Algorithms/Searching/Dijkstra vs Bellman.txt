@@ -1,0 +1,9 @@
+Bellman Ford Algorithm
+
+Very efficient at solving the shortest path over Dijkstra algorihtm if a weighted graph has negative weigh or negative number then Bellman can solve it but Dijkstra can't
+Can take a long time 
+Wase time complexity O(n)
+
+Dijkstra Algorithm
+A little bit faster
+But cant accomodate negative numbers

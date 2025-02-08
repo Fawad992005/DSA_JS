@@ -1,0 +1,12 @@
+Binary Heap
+Lookup O(n)
+Insert O(log N)
+Delete O(log N)
+
+
+
+Priority Queue
+Min Heap or Max Heap
+Peek O(1)
+Remove: O(log N)
+Add : O(log N)

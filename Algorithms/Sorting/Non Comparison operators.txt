@@ -1,0 +1,7 @@
+Non Comparison SORT
+
+Radix Sort
+Counting Sort
+
+These work only on numbers 
+They also have a fixed range like 0 to 100
