@@ -13,6 +13,7 @@ The repository is structured into the following categories:
 - **Strings** - String manipulation techniques and algorithms.
 - **Algorithms** - Common algorithms such as sorting, searching, and recursion.
 - **DP (Dynamic Programming)** - Optimized solutions using dynamic programming techniques.
+- **Trees - Common Trees problems
 
 ## 🛠️ Technologies Used
 
